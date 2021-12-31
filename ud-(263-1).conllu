@@ -5,6 +5,6 @@
 5	=a	a	PART	_	_	9	nsubj:bound	_	3
 6	nai	nai	NOUN	_	_	9	obl	_	sky
 7	=nu	nu	PART	_	_	6	case	_	locative
-8	=ax	ax	PART	_	_	2	case	_	agreement.s
-9	uakëxa	u	VERB	_	_	0	root	_	come
+8	=ax	ax	PART	_	_	2	case	_	PA.s
+9	uakëxa	u-akë-x-a	VERB	_	_	0	root	_	come-REM.PST-3-NON.PROX
 10	.	_	PUNCT	_	_	9	punct	_	_
